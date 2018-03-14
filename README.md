@@ -7,6 +7,6 @@ Welcome to the kBase wiki!
     * class 文件结构
     * class 类加载
     * Java 虚拟机内存结构
-    * 垃圾收加（GC）
+    * 垃圾回收（GC）
 * Tomcat 性能调优
 * 事务机制
