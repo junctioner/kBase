@@ -4,7 +4,7 @@ Welcome to the kBase wiki!
 * [TCP、HTTP学习](https://github.com/junctioner/tcp-http)
 * [spring cloud](https://github.com/junctioner/spring-cloud)
 * JVM
-    * class 文件结构 [段福周 @段福周-咪咕视频-上海](http://about:blank;)
+    * class 文件结构 [段福周 @段福周-咪咕视频-上海](http://about:blank;)
     * class 类加载
     * Java 虚拟机内存结构
     * 垃圾回收（GC）
