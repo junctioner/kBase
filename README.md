@@ -14,3 +14,7 @@ Welcome to the kBase wiki!
 * 分布式
     * RPC [成亮 @武汉-武汉天喻-成亮](https://about:blank;)
 * [成亮：Java IO 读书笔记](https://github.com/junctioner/kBase/blob/master/javaio.md)
+* elasticsearch[曾俊伟]()
+    * [elasticsearch 性能调优](https://www.cnblogs.com/huangpeng1990/p/4364341.html)
+    * [用Profile API 定位 es 慢查询](http://www.easyice.cn/archives/267)
+    * [ES分片：流程分析与速度优化](https://www.easyice.cn/archives/231)
