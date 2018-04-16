@@ -18,3 +18,4 @@ Welcome to the kBase wiki!
     * [elasticsearch 性能调优](https://www.cnblogs.com/huangpeng1990/p/4364341.html)
     * [用Profile API 定位 es 慢查询](http://www.easyice.cn/archives/267)
     * [ES分片：流程分析与速度优化](https://www.easyice.cn/archives/231)
+* [汪磊:Solr]( https://github.com/trickerslie/KSolr)
